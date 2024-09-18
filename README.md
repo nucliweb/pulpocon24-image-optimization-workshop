@@ -18,6 +18,26 @@ Cargamos imágenes innecesarias, con formatos inadecuados y no adaptadas al tama
 
 [![Joan Leon](./assets/JoanLeon.jpg)](https://slides.com/joanleon/nucliweb)
 
+## Requirements
+
+Ths project needs [Node 20+](https://nodejs.org/en/download/package-manager)
+
+## Intall
+
+Run the next command in the root of the project.
+
+```bash
+npm install
+```
+
+## Run server
+
+Run the next command to run the server.
+
+```bash
+npm run start
+```
+
 ## Releases links
 
 | Web                                                                                                                      | Folder                                                                        |
