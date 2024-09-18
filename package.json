@@ -1,0 +1,33 @@
+{
+  "name": "pulpocon24-image-optimization-workshop",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pulpocon 2024 Image Optimization Workshop",
+  "scripts": {
+    "start": "serve workshop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Joan León",
+    "twitter": "@nucliweb",
+    "email": "joan.leon@gmail.com"
+  },
+  "keywords": [
+    "image",
+    "optimize",
+    "jpeg",
+    "jpg",
+    "webp",
+    "avif",
+    "jpeg-xl",
+    "jxl",
+    "imageperf",
+    "webperf"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "recursive-readdir": "2.2.3",
+    "serve": "14.2.3",
+    "sharp": "0.33.5"
+  }
+}
