@@ -40,19 +40,19 @@ npm run start
 
 ## Releases links
 
-| Web                                                                                                                      | Folder                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [main](https://main--image-optimization-workshop.netlify.app/)                                                           | [main](https://github.com/nucliweb/image-optimization-workshop/)              |
-| [image-optim](https://image-optim--image-optimization-workshop.netlify.app/)                                             | -                                                                             |
-| [image-optim-webp](https://image-optim-webp--image-optimization-workshop.netlify.app/)                                   | -                                                                             |
-| [image-optim-next-gen](https://image-optim-next-gen--image-optimization-workshop.netlify.app/)                           | [image-optim-next-gen](./workshop/image-optim-next-gen)                       |
-| [image-optim-loading-lazy](https://image-optim-loading-lazy--image-optimization-workshop.netlify.app/)                   | [image-optim-loading-lazy](./workshop/image-optim-loading-lazy)               |
-| [image-optim-css-images](https://image-optim-css-images--image-optimization-workshop.netlify.app/)                       | [image-optim-css-images](./workshop/image-optim-css-images)                   |
-| [image-optim-responsive-images](https://image-optim-responsive-images--image-optimization-workshop.netlify.app/)         | [image-optim-responsive-images](./workshop/image-optim-css-responsive-images) |
-| [image-optim-css-responsive-images](https://image-optim-css-responsive-images--image-optimization-workshop.netlify.app/) | [image-optim-css-responsive-images](./workshop/image-optim-responsive-images) |
-| [image-optim-cloudinary](https://image-optim-cloudinary--image-optimization-workshop.netlify.app/)                       | [image-optim-cloudinary](./workshop/image-optim-cloudinary)                   |
-| [image-optim-video](https://image-optim-video--image-optimization-workshop.netlify.app/)                                 | [image-optim-video](./workshop/image-optim-video)                             |
-| [image-optim-video-cloudinary](https://image-optim-video-cloudinary--image-optimization-workshop.netlify.app/)           | [image-optim-video-cloudinary](./workshop/image-optim-video-cloudinary)       |
+| Web                                                                                                                      | Folder                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [main](https://main--image-optimization-workshop.netlify.app/)                                                           | [main](00-init)                                                                  |
+| [image-optim](https://image-optim--image-optimization-workshop.netlify.app/)                                             | [image-optim-ImageOptim](./workshop/01-image-optim-ImageOptim)                   |
+| [image-optim-webp](https://image-optim-webp--image-optimization-workshop.netlify.app/)                                   | [image-optim-webp](./workshop/02-image-optim-webp)                               |
+| [image-optim-next-gen](https://image-optim-next-gen--image-optimization-workshop.netlify.app/)                           | [image-optim-next-gen](./workshop/03-image-optim-next-gen)                       |
+| [image-optim-loading-lazy](https://image-optim-loading-lazy--image-optimization-workshop.netlify.app/)                   | [image-optim-loading-lazy](./workshop/04-image-optim-loading-lazy)               |
+| [image-optim-css-images](https://image-optim-css-images--image-optimization-workshop.netlify.app/)                       | [image-optim-css-images](./workshop/05-image-optim-css-images)                   |
+| [image-optim-responsive-images](https://image-optim-responsive-images--image-optimization-workshop.netlify.app/)         | [image-optim-responsive-images](./workshop/06-image-optim-css-responsive-images) |
+| [image-optim-css-responsive-images](https://image-optim-css-responsive-images--image-optimization-workshop.netlify.app/) | [image-optim-css-responsive-images](./workshop/07-image-optim-responsive-images) |
+| [image-optim-cloudinary](https://image-optim-cloudinary--image-optimization-workshop.netlify.app/)                       | [image-optim-cloudinary](./workshop/08-image-optim-cloudinary)                   |
+| [image-optim-video](https://image-optim-video--image-optimization-workshop.netlify.app/)                                 | [image-optim-video](./workshop/09-image-optim-video)                             |
+| [image-optim-video-cloudinary](https://image-optim-video-cloudinary--image-optimization-workshop.netlify.app/)           | [image-optim-video-cloudinary](./workshop/10-image-optim-video-cloudinary)       |
 
 ## Resources
 
