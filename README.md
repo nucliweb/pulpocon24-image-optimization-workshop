@@ -42,7 +42,7 @@ npm run start
 
 | Web                                                                                                                      | Folder                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [main](https://main--image-optimization-workshop.netlify.app/)                                                           | [main](00-init)                                                                  |
+| [main](https://main--image-optimization-workshop.netlify.app/)                                                           | [main](./workshop/00-init)                                                       |
 | [image-optim](https://image-optim--image-optimization-workshop.netlify.app/)                                             | [image-optim-ImageOptim](./workshop/01-image-optim-ImageOptim)                   |
 | [image-optim-webp](https://image-optim-webp--image-optimization-workshop.netlify.app/)                                   | [image-optim-webp](./workshop/02-image-optim-webp)                               |
 | [image-optim-next-gen](https://image-optim-next-gen--image-optimization-workshop.netlify.app/)                           | [image-optim-next-gen](./workshop/03-image-optim-next-gen)                       |
